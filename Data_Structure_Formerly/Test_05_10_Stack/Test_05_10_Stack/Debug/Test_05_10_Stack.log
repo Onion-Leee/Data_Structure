@@ -1,0 +1,6 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Stack\Test_05_10_Stack\LinkStack.h(35,46): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Stack\Test_05_10_Stack\LinkStack.h(49,6): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Stack\Test_05_10_Stack\LinkStack.h(81,9): warning C4033: “LinkStackTop”必须返回值
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Stack\Test_05_10_Stack\LinkStack.h(84): warning C4715: “LinkStackTop”: 不是所有的控件路径都返回值
+  Test_05_10_Stack.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Stack\Debug\Test_05_10_Stack.exe

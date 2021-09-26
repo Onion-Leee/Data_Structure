@@ -1,0 +1,4 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Queue\Test_05_10_Queue\LinkQueue.h(29,46): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Queue\Test_05_10_Queue\LinkQueue.h(49,7): warning C4013: “free”未定义；假设外部返回 int
+  Test_05_10_Queue.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_10_Queue\Debug\Test_05_10_Queue.exe

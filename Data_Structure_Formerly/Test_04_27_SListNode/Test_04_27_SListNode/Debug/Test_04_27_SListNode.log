@@ -1,0 +1,4 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_27_SListNode\Test_04_27_SListNode\slistnode.h(366,28): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_27_SListNode\Test_04_27_SListNode\slistnode.h(369,23): warning C4047: “=”:“int”与“void *”的间接级别不同
+  Test_04_27_SListNode.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_27_SListNode\Debug\Test_04_27_SListNode.exe

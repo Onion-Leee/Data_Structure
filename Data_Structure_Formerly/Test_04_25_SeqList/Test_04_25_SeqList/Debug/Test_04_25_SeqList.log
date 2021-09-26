@@ -1,0 +1,11 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(45,31): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(47,8): warning C4013: “memset”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(64,41): warning C4013: “realloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(116,7): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(193,21): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(230,9): warning C4033: “SeqListFind”必须返回值
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(263,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(265,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(240): warning C4715: “SeqListFind”: 不是所有的控件路径都返回值
+  Test_04_25_SeqList.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Debug\Test_04_25_SeqList.exe

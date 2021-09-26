@@ -1,0 +1,4 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_01_DCList\Test_05_01_DCList\DCList.h(39,37): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_01_DCList\Test_05_01_DCList\DCList.h(103,6): warning C4013: “free”未定义；假设外部返回 int
+  Test_05_01_DCList.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_05_01_DCList\Debug\Test_05_01_DCList.exe

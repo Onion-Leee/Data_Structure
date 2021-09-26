@@ -1,0 +1,6 @@
+﻿  TestMain.c
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(32,31): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(32,72): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(34,8): warning C4013: “memset”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\Test_04_25_SeqList\seqlist.h(91,7): warning C4013: “free”未定义；假设外部返回 int
+  Test_04_25_SeqList.vcxproj -> C:\Users\13279\Documents\Go fot it\Data_Structure\Data_Structure_CODE\Test_04_25_Seqlist\x64\Debug\Test_04_25_SeqList.exe
